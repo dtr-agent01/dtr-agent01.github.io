@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hermes Agent</title>
+</head>
+<body style="font-family: system-ui, sans-serif; max-width: 720px; margin: 60px auto; padding: 0 20px; line-height: 1.6;">
+  <h1>Hermes Agent</h1>
+  <p>Hermes Agent is a personal automation assistant that connects to Google Workspace APIs to perform tasks on behalf of its owner.</p>
+  <ul>
+    <li><a href="privacy.html">Privacy Policy</a></li>
+    <li><a href="terms.html">Terms of Service</a></li>
+  </ul>
+  <p>Contact: <a href="mailto:dtr.agent01@gmail.com">dtr.agent01@gmail.com</a></p>
+</body>
+</html>
